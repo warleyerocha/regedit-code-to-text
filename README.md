@@ -1,1 +1,1 @@
-# Simple way to read scripts codes in Windows Explorer preview pane as txt files.
+# Simple way to read scripts codes in Windows File Explorer preview pane as txt files.
