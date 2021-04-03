@@ -1,1 +1,1 @@
-# regedit-code-to-text
+# Simple way to read scripts codes in Windows Explorer.
