@@ -1,0 +1,61 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.json]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.bak]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.conf]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.cfg]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.js]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.jsx]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.jsp]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.hbs]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.sh]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.php]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.ps]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.ps1]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.bat]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.vbs]
+"PerceivedType"="text"
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.log]
+"PerceivedType"="text"
+"Content Type"="text/plain"
